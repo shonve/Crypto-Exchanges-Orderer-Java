@@ -1,0 +1,1 @@
+java -cp $HOME/.m2/repository/org/springframework/spring-core/6.1.2/spring-core-6.1.2.jar:$HOME/.m2/repository/org/springframework/spring-web/6.1.2/spring-web-6.1.2.jar:$HOME/.m2/repository/jakarta/json/jakarta.json-api/2.1.3/jakarta.json-api-2.1.3.jar:$HOME/.m2/repository/org/eclipse/parsson/parsson/1.1.5/parsson-1.1.5.jar:./target/classes com.example.Main
