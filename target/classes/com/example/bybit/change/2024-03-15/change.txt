@@ -1,0 +1,1 @@
+{"symbol":"ZENDUSDT","prices":[{"price":3.6984000205993652,"time":"07:42:49.28","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":190.34915161132812,"volume":19179022},{"price":3.6984000205993652,"time":"07:48:19.59","change":0.0,"volume":19179022}]}

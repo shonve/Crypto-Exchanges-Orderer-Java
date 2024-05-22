@@ -1,0 +1,2 @@
+{"exchange":"Bybit","event":"ticker","symbol":"NEARUSD","last_price":"3.02700","timestamp":1705806427674}
+{"exchange":"Bybit","event":"ticker","symbol":"NEARUSD","last_price":"3.02700","timestamp":1705806431772}

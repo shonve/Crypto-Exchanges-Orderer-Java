@@ -1,0 +1,13 @@
+{"symbol":"MYROUSDT","prices":[{"price":0.2847000062465668,"time":"12:38:13.23","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.6736999750137329,"volume":130268616}]}
+{"symbol":"QORPOUSDT","prices":[{"price":0.4927099943161011,"time":"12:38:13.23","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.6783000230789185,"volume":2223013.25},{"price":0.6412500143051147,"time":"19:53:47.64","change":0.30147555470466614,"volume":3551957.5}]}
+{"symbol":"FTTUSDT","prices":[{"price":2.601900100708008,"time":"19:53:47.64","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.23489999771118164,"volume":4906724.5}]}
+{"symbol":"SOSUSDT","prices":[{"price":6.324000167978738E-8,"time":"19:53:47.64","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.6638000011444092,"volume":602896.5625}]}
+{"symbol":"LUNAUSDT","prices":[{"price":1.2031999826431274,"time":"12:38:13.23","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.43149998784065247,"volume":41638464},{"price":1.2450000047683716,"time":"19:53:47.64","change":0.03474070876836777,"volume":46963108}]}
+{"symbol":"MATIC2SUSDT","prices":[{"price":0.20029999315738678,"time":"12:38:13.23","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.20520000159740448,"volume":458233.71875}]}
+{"symbol":"TOKENUSDT","prices":[{"price":0.07124000042676926,"time":"19:53:47.64","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.26489999890327454,"volume":28317766}]}
+{"symbol":"PSTAKEUSDT","prices":[{"price":0.1252100020647049,"time":"19:53:47.64","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.30480000376701355,"volume":146224.078125}]}
+{"symbol":"BTC3SUSDT","prices":[{"price":0.22169999778270721,"time":"12:38:13.23","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.21610000729560852,"volume":2035705.5}]}
+{"symbol":"XRP3SUSDT","prices":[{"price":0.00673400005325675,"time":"12:38:13.23","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.2824000120162964,"volume":251277.265625}]}
+{"symbol":"INSPUSDT","prices":[{"price":0.27379998564720154,"time":"19:53:47.64","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.21690000593662262,"volume":601800.1875}]}
+{"symbol":"SUNUSDT","prices":[{"price":0.014605999924242496,"time":"12:38:13.23","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.21050000190734863,"volume":745194.625}]}
+{"symbol":"COQUSDT","prices":[{"price":0.000003983000169682782,"time":"19:53:47.64","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.3330000042915344,"volume":4949605.0}]}

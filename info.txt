@@ -1,0 +1,124 @@
+[Binance]:
+
+Symbol: PROMUSDT, Change: 0.36933997
+
+Symbol: ALTUSDT, Change: 50.42667
+
+Symbol: ALTFDUSD, Change: 50.37604
+
+Symbol: ALTTRY, Change: 50.49181
+
+"PROMBTC", "PROMUSDT", "ALTBTC", "ALTUSDT", "ALTBNB", "ALTFDUSD", "ALTTRY", 
+
+Symbol: CYCLUBUSDT, Change: 0.23357
+
+Symbol: ZIGUSDT, Change: 0.25952
+
+Symbol: MOGUSDT, Change: 0.24381
+
+[Bitget]: "CYCLUBUSDT", "ZIGUSDT", "MOGUSDT", 
+
+Symbol: TRVLUSDT, Change: 0.247
+
+Symbol: CTTUSDT, Change: 0.9748
+
+Symbol: 1SOLUSDT, Change: 0.335
+
+Symbol: ZIGUSDT, Change: 0.2295
+
+Symbol: GTAIUSDT, Change: 7.219
+
+Symbol: OMNUSDT, Change: 0.2059
+
+[Bybit]: "TRVLUSDT", "CTTUSDT", "1SOLUSDT", "ZIGUSDT", "GTAIUSDT", "OMNUSDT", 
+
+
+
+[Binance]: Symbol: PROMBTC, Change: 0.37011
+
+Symbol: PROMUSDT, Change: 0.36933997
+
+Symbol: ALTBTC, Change: 50.53333
+
+Symbol: ALTUSDT, Change: 50.42667
+
+Symbol: ALTBNB, Change: 50.23248
+
+Symbol: ALTFDUSD, Change: 50.37604
+
+Symbol: ALTTRY, Change: 50.49181
+
+"PROMBTC", "PROMUSDT", "ALTBTC", "ALTUSDT", "ALTBNB", "ALTFDUSD", "ALTTRY", 
+
+Symbol: CYCLUBUSDT, Change: 0.23357
+
+Symbol: ZIGUSDT, Change: 0.25952
+
+Symbol: MOGUSDT, Change: 0.24381
+
+[Bitget]: "CYCLUBUSDT", "ZIGUSDT", "MOGUSDT", 
+
+Symbol: ZIGUSDT, Change: 0.2115
+
+Symbol: CTTUSDT, Change: 0.906
+
+Symbol: TRVLUSDT, Change: 0.2628
+
+Symbol: SAILUSDT, Change: 0.253
+
+Symbol: GTAIUSDT, Change: 7.3565
+
+Symbol: 1SOLUSDT, Change: 0.3719
+
+[Bybit]: "ZIGUSDT", "CTTUSDT", "TRVLUSDT", "SAILUSDT", "GTAIUSDT", "1SOLUSDT", 
+
+
+[Binance]: Symbol: PROMBTC, Change: 0.40674
+
+Symbol: PROMUSDT, Change: 0.39093
+
+Symbol: ALTBTC, Change: 53.73333
+
+Symbol: ALTUSDT, Change: 53.73
+
+Symbol: ALTBNB, Change: 53.44659
+
+Symbol: ALTFDUSD, Change: 53.815308
+
+Symbol: ALTTRY, Change: 53.726784
+
+"PROMBTC", "PROMUSDT", "ALTBTC", "ALTUSDT", "ALTBNB", "ALTFDUSD", "ALTTRY", 
+
+Symbol: CYCLUBUSDT, Change: 0.23052
+
+Symbol: ZIGUSDT, Change: 0.2527
+
+Symbol: MOGUSDT, Change: 0.23604
+
+[Bitget]: "CYCLUBUSDT", "ZIGUSDT", "MOGUSDT", 
+
+Symbol: ZIGUSDT, Change: 0.2115
+
+Symbol: CTTUSDT, Change: 0.906
+
+Symbol: TRVLUSDT, Change: 0.2628
+
+Symbol: SAILUSDT, Change: 0.253
+
+Symbol: GTAIUSDT, Change: 7.3565
+
+Symbol: 1SOLUSDT, Change: 0.3719
+
+Symbol: CTTUSDT, Change: 0.7536
+
+Symbol: SAILUSDT, Change: 0.3255
+
+Symbol: TRVLUSDT, Change: 0.2755
+
+Symbol: 1SOLUSDT, Change: 0.4162
+
+Symbol: GTAIUSDT, Change: 7.6995
+
+Symbol: 3PUSDT, Change: 0.2173
+
+[Bybit]: "CTTUSDT", "SAILUSDT", "TRVLUSDT", "1SOLUSDT", "GTAIUSDT", "3PUSDT", 

@@ -1,0 +1,2 @@
+{"symbol":"ETH5SUSDT","prices":[{"price":0.7426350116729736,"time":"07:42:49.37","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":111.91389465332031,"volume":2845387.5},{"price":0.7426350116729736,"time":"07:48:19.70","change":0.0,"volume":2845387.5}]}
+{"symbol":"BEESUSDT","prices":[{"price":0.23880000412464142,"time":"07:42:49.37","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":264.33331298828125,"volume":22488714},{"price":0.23880000412464142,"time":"07:48:19.70","change":0.0,"volume":22488714}]}

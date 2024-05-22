@@ -1,0 +1,1 @@
+{"symbol":"PEPEUSDC","prices":[{"price":0.000010060000022349413,"time":"07:42:49.06","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":4.994285583496094,"volume":41544286208}]}

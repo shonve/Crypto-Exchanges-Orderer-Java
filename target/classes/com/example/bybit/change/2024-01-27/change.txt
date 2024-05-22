@@ -1,0 +1,17 @@
+{"time":"07:46:30.20","threshold":"0.3","data":[{"symbol":"1SOLUSDT","change":"0.47","diff":""},{"symbol":"OMNIUSDT","change":"0.45","diff":""},{"symbol":"GSTUSDT","change":"0.41","diff":""}]}
+{"time":"07:48:40.87","threshold":"0.3","data":[{"symbol":"1SOLUSDT","change":"0.47","diff":"-0.00"},{"symbol":"OMNIUSDT","change":"0.45","diff":"0.00"},{"symbol":"GSTUSDT","change":"0.41","diff":"-0.00"}]}
+{"time":"07:50:16.42","threshold":"0.3","data":[{"symbol":"1SOLUSDT","change":"0.47","diff":"-0.00"},{"symbol":"OMNIUSDT","change":"0.45","diff":"0.00"},{"symbol":"GSTUSDT","change":"0.41","diff":"-0.00"}]}
+{"time":"07:53:56.20","threshold":"0.3","data":[{"symbol":"1SOLUSDT","change":"0.55","diff":"0.08"},{"symbol":"OMNIUSDT","change":"0.46","diff":"0.01"},{"symbol":"GSTUSDT","change":"0.45","diff":"0.04"}]}
+{"time":"07:56:24.62","threshold":"0.3","data":[{"symbol":"OMNIUSDT","change":"0.47","diff":"0.01"},{"symbol":"GSTUSDT","change":"0.37","diff":"-0.08"},{"symbol":"1SOLUSDT","change":"0.51","diff":"-0.04"}]}
+{"time":"14:33:25.60","threshold":"0.3","data":[{"symbol":"AKIUSDT","change":"0.32","diff":""},{"symbol":"OMNIUSDT","change":"0.36","diff":"-0.11"}]}
+{"time":"14:52:04.40","threshold":"0.3","data":[{"symbol":"AKIUSDT","change":"0.32","diff":"-0.00"},{"symbol":"OMNIUSDT","change":"0.36","diff":"0.00"}]}
+{"time":"16:05:27.65","threshold":"0.3","data":[{"symbol":"OMNIUSDT","change":"0.32","diff":"-0.04"},{"symbol":"AKIUSDT","change":"0.77","diff":"0.45"}]}
+{"time":"17:14:37.65","threshold":"0.3","data":[{"symbol":"OMNIUSDT","change":"0.31","diff":"-0.01"},{"symbol":"AKIUSDT","change":"0.86","diff":"0.09"}]}
+{"time":"17:38:34.81","threshold":"0.3","data":[{"symbol":"OMNIUSDT","change":"0.31","diff":"-0.00"},{"symbol":"AKIUSDT","change":"0.86","diff":"0.00"}]}
+{"time":"17:38:41.99","threshold":"0.3","data":[{"symbol":"OMNIUSDT","change":"0.31","diff":"-0.00"},{"symbol":"AKIUSDT","change":"0.86","diff":"0.00"}]}
+{"time":"17:38:58.37","threshold":"0.3","data":[{"symbol":"CTTUSDT","change":"0.57","diff":""},{"symbol":"AKIUSDT","change":"0.80","diff":"-0.06"}]}
+{"time":"19:33:31.22","threshold":"0.3","data":[{"symbol":"DCRUSDT","change":"0.41","diff":""},{"symbol":"AKIUSDT","change":"0.56","diff":"-0.24"},{"symbol":"CTTUSDT","change":"0.33","diff":"-0.24"}]}
+{"time":"20:00:51.89","threshold":"0.3","data":[{"symbol":"LISUSDT","change":"0.56","diff":""},{"symbol":"DCRUSDT","change":"0.43","diff":"0.02"},{"symbol":"CTTUSDT","change":"0.56","diff":"0.23"}]}
+{"time":"20:25:32.12","threshold":"0.3","data":[{"symbol":"LISUSDT","change":"0.56","diff":"0.00"},{"symbol":"DCRUSDT","change":"0.43","diff":"-0.00"},{"symbol":"CTTUSDT","change":"0.56","diff":"0.00"}]}
+{"time":"20:25:40.04","threshold":"0.3","data":[{"symbol":"LISUSDT","change":"0.60","diff":"0.04"},{"symbol":"CTTUSDT","change":"0.37","diff":"-0.19"},{"symbol":"DCRUSDT","change":"0.38","diff":"-0.05"}]}
+{"time":"21:47:26.59","threshold":"0.3","data":[{"symbol":"LISUSDT","change":"1.66","diff":"1.06"},{"symbol":"TOMSUSDT","change":"0.51","diff":""},{"symbol":"DCRUSDT","change":"0.40","diff":"0.02"},{"symbol":"CTTUSDT","change":"0.38","diff":"0.01"},{"symbol":"ORTUSDT","change":"0.44","diff":""}]}

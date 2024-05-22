@@ -1,0 +1,7 @@
+{"symbol":"STRMUSDT","prices":[{"price":0.003980000037699938,"time":"12:53:15.66","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":0.4316500127315521,"volume":68509.015625},{"price":0.007699999958276749,"time":"17:51:43.42","change":0.9346733093261719,"volume":137528.4375}]}
+{"symbol":"TAMAUSDT","prices":[{"price":0.019968999549746513,"time":"12:53:15.66","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":0.4053800106048584,"volume":340548.40625}]}
+{"symbol":"DEGENUSDT","prices":[{"price":4.858000011154218E-7,"time":"12:53:15.66","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":0.4338800013065338,"volume":52226.5}]}
+{"symbol":"FORTUSDT","prices":[{"price":0.35534000396728516,"time":"12:53:15.66","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":0.6706200242042542,"volume":159647.875}]}
+{"symbol":"BABYBONKUSDT","prices":[{"price":1.1979499336955968E-10,"time":"12:53:15.66","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":0.4830299913883209,"volume":3263304.25}]}
+{"symbol":"BNXUSDT","prices":[{"price":0.6819000244140625,"time":"17:51:43.42","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":0.5102999806404114,"volume":3581647.5}]}
+{"symbol":"GROKUSDT","prices":[{"price":0.015910999849438667,"time":"17:51:43.42","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":0.661899983882904,"volume":1443671.75}]}

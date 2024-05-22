@@ -1,0 +1,9 @@
+{"symbol":"TAVAUSDT","prices":[{"price":0.07991000264883041,"time":"08:29:17.29","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.10239999741315842}]}
+{"symbol":"ELDAUSDT","prices":[{"price":0.01789199933409691,"time":"08:29:17.29","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.26899999380111694}]}
+{"symbol":"ACAUSDT","prices":[{"price":0.10300000011920929,"time":"08:29:17.29","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.21610000729560852}]}
+{"symbol":"SLGUSDT","prices":[{"price":0.04411400109529495,"time":"08:29:17.29","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.15620000660419464}]}
+{"symbol":"ENSUSDT","prices":[{"price":20.10300064086914,"time":"08:29:17.29","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.1120000034570694}]}
+{"symbol":"COMUSDT","prices":[{"price":1.7487000226974487,"time":"08:29:17.29","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.17190000414848328}]}
+{"symbol":"LINK2LUSDT","prices":[{"price":21.084400177001953,"time":"08:29:17.29","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.10329999774694443}]}
+{"symbol":"SLGUSDC","prices":[{"price":0.04464700073003769,"time":"08:29:17.29","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.1738000065088272}]}
+{"symbol":"FIREUSDT","prices":[{"price":1.0901999473571777,"time":"08:29:17.29","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.22110000252723694}]}

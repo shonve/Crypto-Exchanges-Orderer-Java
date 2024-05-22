@@ -14,49 +14,49 @@
  * limitations under the License.
  */
 
-package com.example.codec;
+ package com.example.codec;
 
-/**
- * Hex data encoder. Converts byte arrays (such as those obtained from message digests)
- * into hexadecimal string representation.
- * <p>
- * For internal use only.
- *
- * @author Luke Taylor
- * @since 3.0
- */
-
-public final class Hex {
-
-	private static final char[] HEX = "0123456789abcdef".toCharArray();
-
-	public static String encode(byte[] bytes) {
-        StringBuilder builder = new StringBuilder();
-		for (byte aByte : bytes) {
-			// Char for top 4 bits
-			builder.append(HEX[(0xF0 & aByte) >>> 4]);
-			// Bottom 4
-			builder.append(HEX[(0x0F & aByte)]);
-		}
-		return builder.toString();
-	}
-
-	public static byte[] decode(CharSequence s) {
-		int nChars = s.length();
-		if (nChars % 2 != 0) {
-			throw new IllegalArgumentException("Hex-encoded string must have an even number of characters");
-		}
-		byte[] result = new byte[nChars / 2];
-		for (int i = 0; i < nChars; i += 2) {
-			int msb = Character.digit(s.charAt(i), 16);
-			int lsb = Character.digit(s.charAt(i + 1), 16);
-			if (msb < 0 || lsb < 0) {
-				throw new IllegalArgumentException(
-						"Detected a Non-hex character at " + (i + 1) + " or " + (i + 2) + " position");
-			}
-			result[i / 2] = (byte) ((msb << 4) | lsb);
-		}
-		return result;
-	}
-
-}
+ /**
+  * Hex data encoder. Converts byte arrays (such as those obtained from message digests)
+  * into hexadecimal string representation.
+  * <p>
+  * For internal use only.
+  *
+  * @author Luke Taylor
+  * @since 3.0
+  */
+ 
+ public final class Hex {
+ 
+     private static final char[] HEX = "0123456789abcdef".toCharArray();
+ 
+     public static String encode(byte[] bytes) {
+         StringBuilder builder = new StringBuilder();
+         for (byte aByte : bytes) {
+             // Char for top 4 bits
+             builder.append(HEX[(0xF0 & aByte) >>> 4]);
+             // Bottom 4
+             builder.append(HEX[(0x0F & aByte)]);
+         }
+         return builder.toString();
+     }
+ 
+     public static byte[] decode(CharSequence s) {
+         int nChars = s.length();
+         if (nChars % 2 != 0) {
+             throw new IllegalArgumentException("Hex-encoded string must have an even number of characters");
+         }
+         byte[] result = new byte[nChars / 2];
+         for (int i = 0; i < nChars; i += 2) {
+             int msb = Character.digit(s.charAt(i), 16);
+             int lsb = Character.digit(s.charAt(i + 1), 16);
+             if (msb < 0 || lsb < 0) {
+                 throw new IllegalArgumentException(
+                         "Detected a Non-hex character at " + (i + 1) + " or " + (i + 2) + " position");
+             }
+             result[i / 2] = (byte) ((msb << 4) | lsb);
+         }
+         return result;
+     }
+ 
+ }

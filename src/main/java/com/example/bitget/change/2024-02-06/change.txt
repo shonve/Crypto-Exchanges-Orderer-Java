@@ -1,0 +1,9 @@
+{"symbol":"TSUKAUSDT","prices":[{"price":0.0286289993673563,"time":"08:29:17.69","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.1109900027513504}]}
+{"symbol":"SAKAIUSDT","prices":[{"price":4.499939918518066,"time":"08:29:17.69","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.14505000412464142}]}
+{"symbol":"CEEKUSDT","prices":[{"price":0.055309999734163284,"time":"08:29:17.69","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.16294999420642853}]}
+{"symbol":"AMUUSDT","prices":[{"price":0.024150000885128975,"time":"08:29:17.69","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.13753999769687653}]}
+{"symbol":"XENUSDT","prices":[{"price":3.478999985873088E-7,"time":"08:29:17.69","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.11434999853372574}]}
+{"symbol":"GXEUSDT","prices":[{"price":0.03085000067949295,"time":"08:29:17.69","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.13128000497817993}]}
+{"symbol":"AREAUSDT","prices":[{"price":0.10394000262022018,"time":"08:29:17.69","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.11570999771356583}]}
+{"symbol":"AWTUSDT","prices":[{"price":0.003847300074994564,"time":"08:29:17.69","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.1106799989938736}]}
+{"symbol":"MOBILEUSDT","prices":[{"price":0.0028589998837560415,"time":"08:29:17.69","min-threshold":0.10000000149011612,"max-threshold":0.4000000059604645,"change":0.12117999792098999}]}

@@ -1,0 +1,11 @@
+{"symbol":"CULTUSDT","prices":[{"price":0.000005100000180391362,"time":"10:42:37.42","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.5205699801445007,"volume":88798.1484375}]}
+{"symbol":"SHIBUSDT","prices":[{"price":0.000041791601688601077,"time":"10:42:37.42","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.43553999066352844,"volume":45657364}]}
+{"symbol":"GSTUSDT","prices":[{"price":0.06097700074315071,"time":"10:42:37.42","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":1.2046799659729004,"volume":226751.34375}]}
+{"symbol":"MICEUSDT","prices":[{"price":0.03751000016927719,"time":"10:42:37.42","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.3664799928665161,"volume":2234971.75}]}
+{"symbol":"PORKUSDT","prices":[{"price":5.529000191017985E-7,"time":"10:42:37.42","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.4068700075149536,"volume":978279.9375}]}
+{"symbol":"WINUSDT","prices":[{"price":0.0002479999966453761,"time":"10:42:37.42","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.41012999415397644,"volume":3668391.25}]}
+{"symbol":"BONEUSDT","prices":[{"price":1.482300043106079,"time":"10:42:37.42","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.5792700052261353,"volume":986408.5}]}
+{"symbol":"LADYSUSDT","prices":[{"price":1.3944000443188997E-7,"time":"10:42:37.42","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.23060999810695648,"volume":525075.0625}]}
+{"symbol":"PEEPOUSDT","prices":[{"price":2.5600000341796658E-8,"time":"10:42:37.42","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.4065900146961212,"volume":82021.6015625}]}
+{"symbol":"AIBBUSDT","prices":[{"price":5.410000225580802E-10,"time":"10:42:37.42","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":0.20221999287605286,"volume":98210.4609375}]}
+{"symbol":"LEASHUSDT","prices":[{"price":1316.574951171875,"time":"10:42:37.42","min-threshold":0.20000000298023224,"max-threshold":20.0,"change":1.421779990196228,"volume":627001.5625}]}

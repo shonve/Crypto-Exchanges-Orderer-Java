@@ -1,0 +1,5 @@
+{"symbol":"IDBTC","prices":[{"price":0.000018909999198513106,"time":"12:53:15.51","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":0.4727399945259094,"volume":3353142.0}]}
+{"symbol":"IDTRY","prices":[{"price":42.92399978637695,"time":"12:53:15.51","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":0.4660300016403198,"volume":21919942}]}
+{"symbol":"IDTUSD","prices":[{"price":1.2949800491333008,"time":"12:53:15.51","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":0.4591299891471863,"volume":1409133.0}]}
+{"symbol":"IDUSDT","prices":[{"price":1.2967599630355835,"time":"12:53:15.51","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":0.4576200246810913,"volume":179889296}]}
+{"symbol":"BNXUSDT","prices":[{"price":0.6820999979972839,"time":"17:51:43.07","min-threshold":0.4000000059604645,"max-threshold":200.0,"change":0.4305799901485443,"volume":1.1750648E+8}]}
